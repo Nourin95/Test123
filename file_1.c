@@ -1,2 +1,2 @@
-a=67;
-print(a);
+c=67;
+print(c);
